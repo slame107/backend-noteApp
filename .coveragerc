@@ -1,0 +1,3 @@
+[run]
+source = backend_noteApp
+omit = backend_noteApp/test*
